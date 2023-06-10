@@ -1,5 +1,9 @@
 # Jamz Music App with Next.js React, Typescript, Tailwind, Supabase, PostgreSQL, Stripe
 
+## Live Preview Link
+
+[https://jamz-music-app.vercel.app/]
+
 ## Install packages
 
 ```bash

@@ -38,7 +38,8 @@ const Liked = async () => {
                 alt="Playlist"
                 className="object-cover"
                 fill
-                sizes="15"
+                width={20}
+                height={20}
               />
             </div>
             <div className="flex flex-col gap-y-2 mt-4 md:mt-0">

@@ -51,7 +51,8 @@ const MediaItem: React.FC<MediaItemProps> = ({ data, onClick }) => {
           alt="MediaItem"
           className="object-cover"
           fill
-          sizes="15"
+          width={20}
+          height={20}
         />
       </div>
       <div className="flex flex-col gap-y-1 overflow-hidden">
